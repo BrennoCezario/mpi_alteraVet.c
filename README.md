@@ -1,2 +1,4 @@
-# mpi_alteraVet.c
-O código em C mpi_alteraVet.c demonstra a troca eficiente de mensagens entre dois processos MPI em um ambiente de computação paralela. Ele implementa a comunicação bidirecional entre um processo mestre e um processo secundário, utilizando funções MPI para enviar e receber dados, além de realizar operações no vetor de dados conforme necessário.
+# Alteração de vetores por MPI com C
+
+Este código em C demonstra a troca eficiente de mensagens entre processos MPI em um ambiente de computação paralela. Implementa a comunicação bidirecional entre um processo mestre e um processo secundário, realizando operações em um vetor de dados e medindo o tempo de execução. Destaca o uso de funções MPI para enviar, receber e coordenar operações distribuídas.
+
